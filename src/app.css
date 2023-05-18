@@ -55,3 +55,6 @@
     top: 30%;
     left: 28%;
 }
+#mid-area > div{
+    width: max-content;
+}
