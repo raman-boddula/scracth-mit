@@ -1,0 +1,57 @@
+.dis-flex {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+}
+
+.flags{
+    display: flex;
+    height: 35px;
+}
+.flags>div {
+    padding: 7px;
+    border-radius: 4px;
+}
+
+.flags>div:hover {
+    cursor: pointer;
+}
+
+.looks {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 10px
+}
+
+.br-20 {
+    border-radius: 20px;
+}
+
+.message-box {
+    position: absolute;
+    top: 5%;
+    left: 78%;
+}
+
+#catSvg {
+    position: relative;
+}
+
+.position-relative {
+    position: relative;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.text-align {
+    top: 16%;
+    left: 21%;
+}
+
+.text-align-hmm {
+    top: 30%;
+    left: 28%;
+}
